@@ -6,7 +6,7 @@
 [![RabbitMQ](https://img.shields.io/badge/Messaging-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![OpenAPI/Swagger](https://img.shields.io/badge/OpenAPI-Swagger-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
-[![CI](https://github.com/MarioAquila01/Desafio-Microservicos-Ecommerce/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/MarioAquila01/Desafio-Microservicos-Ecommerce/actions/workflows/ci.yml)
+
 
 > **Status:** Em processo de desenvolvimento — *Desafio do Bootcamp DIO / Desafio técnico Avanade*  
 > **Repositório:** https://github.com/MarioAquila01/Desafio-Microservicos-Ecommerce
