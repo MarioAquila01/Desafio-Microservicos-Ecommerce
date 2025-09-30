@@ -9,15 +9,12 @@
 [![CI](https://github.com/MarioAquila01/Desafio-T-cnico---Microservi-os/actions/workflows/ci.yml/badge.svg)](https://github.com/MarioAquila01/Desafio-T-cnico---Microservi-os/actions)
 
 > **Status:** Em processo de desenvolvimento — *Desafio do Bootcamp DIO / Desafio técnico Avanade*  
-> **Repositório:** https://github.com/MarioAquila01/Desafio-T-cnico---Microservi-os
+> **Repositório:** https://github.com/MarioAquila01/Desafio-Microservicos-Ecommerce
 
 Arquitetura de e-commerce em **.NET 8** com dois microsserviços (**Estoque** e **Vendas**), **API Gateway (YARP)**, **JWT**, **RabbitMQ** (eventos assíncronos) e **EF Core + SQLite**.
 
 Fluxo principal: **criar produto → criar pedido → validar estoque → publicar evento → consumir evento e decrementar estoque**.
 
-<p align="center">
-  <img src="docs/images/architecture.png" alt="Arquitetura — Gateway + Inventory + Sales + RabbitMQ" width="820"/>
-</p>
 
 ---
 
