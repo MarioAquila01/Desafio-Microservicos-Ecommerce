@@ -332,17 +332,5 @@ Abra uma *issue* com contexto e passos para reproduzir; *PRs* com commits pequen
 
 ## 📜 Licença
 
-Distribuído sob a licença **MIT**. Veja `LICENSE` para mais informações.
-
-```
-
----
-
-### O que você ainda pode querer fazer (rapidinho)
-- Criar a pasta `docs/images/` e colocar:
-  - `architecture.png` (se quiser, te mando o diagrama em alta),
-  - `swagger-inventory.png`,
-  - `swagger-sales.png`.
-- Adicionar o arquivo `LICENSE` (MIT) na raiz.
-- Subir o workflow `ci.yml` pra ativar o badge de CI.
+Uso educacional no contexto do Bootcamp DIO — Desafio Técnico Avanade.
 
