@@ -1,4 +1,21 @@
-﻿.env
+﻿# build
+**/bin/
+**/obj/
+
+# sqlite sidecars
 *.db
-/bin/
-/obj/
+*.db-shm
+*.db-wal
+*.sqlite
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.cache
+*.log
+
+# env
+.env
